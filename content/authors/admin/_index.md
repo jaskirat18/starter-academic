@@ -11,7 +11,8 @@ interests:
   - Power Amplifiers
   - Radio Frequency IC
   - mm-Wave Circuits
-  - Communication Circuits and Analog/Mixed-Signal IC
+  - Communication Circuits
+  - Analog/Mixed-Signal IC
 social: []
 education:
   courses:
