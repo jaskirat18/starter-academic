@@ -12,9 +12,9 @@ interests:
   - RF/mm-Wave IC
   - Analog/Mixed-Signal IC
 social:
-  - icon_pack: far
+  - icon_pack: fas
     icon: envelope
-    link: https://google.com
+    link: mailto:amritjaskirat@gmail.com
 education:
   courses:
     - course: Bachelor of Technology in ECE
