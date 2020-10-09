@@ -11,7 +11,10 @@ interests:
   - Power Amplifiers
   - RF/mm-Wave IC
   - Analog/Mixed-Signal IC
-social: []
+social:
+  - icon_pack: far
+    icon: envelope
+    link: https://google.com
 education:
   courses:
     - course: Bachelor of Technology in ECE
