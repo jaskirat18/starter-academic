@@ -19,7 +19,7 @@ social:
     icon: linkedin
     link: https://www.linkedin.com/in/jaskirat1801/
   - icon_pack: ai
-    icon: cv
+    icon: CV
     link: https://jaskirat-virdi.netlify.app/files/cv.pdf
 education:
   courses:
