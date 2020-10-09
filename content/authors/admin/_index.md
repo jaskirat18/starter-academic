@@ -20,7 +20,7 @@ social:
     link: https://www.linkedin.com/in/jaskirat1801/
   - icon_pack: ai
     icon: CV
-    link: https://jaskirat-virdi.netlify.app/files/cv.pdf
+    link: https://google.com
 education:
   courses:
     - course: Bachelor of Technology in ECE
