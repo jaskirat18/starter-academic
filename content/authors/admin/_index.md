@@ -15,6 +15,12 @@ social:
   - icon_pack: fas
     icon: envelope
     link: mailto:amritjaskirat@gmail.com
+  - icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/jaskirat1801/
+  - icon_pack: ai
+    icon: cv
+    link: https://jaskirat-virdi.netlify.app/files/cv.pdf
 education:
   courses:
     - course: Bachelor of Technology in ECE
