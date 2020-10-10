@@ -19,7 +19,7 @@ social:
     icon: linkedin
     link: https://www.linkedin.com/in/jaskirat1801/
   - icon_pack: ai
-    icon: CV
+    icon: cv
     link: https://google.com
 education:
   courses:
