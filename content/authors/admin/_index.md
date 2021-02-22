@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Texas Instruments Incorporated
+  - name: Texas Instruments Inc.
 superuser: true
 authors:
   - admin
