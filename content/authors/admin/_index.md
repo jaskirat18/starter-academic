@@ -23,8 +23,10 @@ social:
     link: https://jaskirat-virdi.netlify.app/files/cv.pdf
 education:
   courses:
+    - course: Ph.D. in ECE
+      institution: University of California, Los Angeles (Fall 2021 onwards)
     - course: Bachelor of Technology in ECE
-      institution: Indian Institution of Technology Roorkee
+      institution: Indian Institute of Technology Roorkee (2016-2020)
       year: ""
 user_groups:
   - ""
