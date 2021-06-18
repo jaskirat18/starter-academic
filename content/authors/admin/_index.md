@@ -36,4 +36,4 @@ I am an analog design engineer in the Analog NVM team at Texas Instruments (TI),
 
 I received my BTech in Electronics and Communication Engineering from the Indian Institute of Technology (IIT) Roorkee in 2020. I worked on several projects related to ECE during my undergraduate years. For my undergraduate thesis, I worked with Prof. Bishnu Prasad Das of IIT Roorkee and designed a low-power CMOS ECG sensor for the early detection of cardiovascular diseases. I have enjoyed working in the field of circuits for both industry projects and academic research.
 
-Beginning Fall 2021, I will be joining the Integrated Sensors Laboratory (ISL) at UCLA as a Ph.D. student. I will be working on high-frequency IC under the supervision of Prof. Aydin Babakhani. I have also received a Department Fellowship from UCLA ECE.
+Beginning Fall 2021, I will be joining the Integrated Sensors Laboratory (ISL) at UCLA as a Ph.D. student. I will be working on high-frequency IC under the supervision of Prof. Aydin Babakhani. I have also been awarded a Department Fellowship from UCLA ECE.
