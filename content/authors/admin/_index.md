@@ -25,7 +25,7 @@ education:
   courses:
     - course: Bachelor of Technology in ECE
       institution: Indian Institution of Technology Roorkee
-      year: 2020
+      year: ""
 user_groups:
   - ""
 highlight_name: false
