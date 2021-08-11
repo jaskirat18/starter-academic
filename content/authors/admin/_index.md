@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Integrated Sensors Lab, UCLA
+  - name: UCLA Integrated Sensors Laboratory
     url: https://research.seas.ucla.edu/isl/
 superuser: true
 authors:
