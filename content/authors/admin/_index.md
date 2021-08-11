@@ -1,10 +1,11 @@
 ---
 organizations:
-  - name: Texas Instruments Inc.
+  - name: Integrated Sensors Lab, UCLA
+    url: https://research.seas.ucla.edu/isl/
 superuser: true
 authors:
   - admin
-role: Analog Design Engineer
+role: Graduate Student
 bio: My research interests include power amplifiers, RF/mm-wave IC and
   analog/mixed signal IC.
 interests:
